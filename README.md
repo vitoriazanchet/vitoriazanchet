@@ -29,13 +29,13 @@ Profissional com sólida base analítica e lógica transicionando para a área d
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQL" width="40" height="40" />
       <br /><sub><b>SQL / Databases</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/htmx/htmx-original.svg" alt="Html" width="40" height="40" />
-      <br /><sub><b>Html</b></sub>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+      <br /><sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs-full/brands/css.svg" alt="CSS" width="40" height="40" />
-      <br /><sub><b>CSS</b></sub>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+      <br /><sub><b>CSS3</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
